@@ -64,5 +64,5 @@ into a Python terminal session and skim through the additional principles.
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 ----|----|----|----
-[&#10094; Prev]("../pcc-chapter-01")| &nbsp; | &nbsp; | &nbsp;[Next &#10095;</span>](../pcc-chapter-03) 
+[&#10094; Prev]("../../../pcc-chapter-01")| &nbsp; | &nbsp; | &nbsp;[Next &#10095;</span>](../../../pcc-chapter-03) 
 
