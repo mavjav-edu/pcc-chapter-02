@@ -8,10 +8,10 @@ data in variables and how to use those variables in your programs.
 
 ## TRY IT YOURSELF #1
 
-Write a separate program to accomplish each of these exercises. Save
+Write a separate program to accomplish each of these exercises. These **T**ry **I**t **Y**ourself exercises can be shortened as `TIY`. Save
 each program with a filename that follows standard Python conventions,
-using lowercase letters and underscores, such as *simple_message.py* and
-*simple_messages.py*.
+using lowercase letters and underscores, such as `tiy1.py` and
+`tiy2.py`.
 
 <span id="ch2exe1"></span>**2-1. Simple Message:** Store a message in a
 variable, and then print that message.
@@ -78,6 +78,8 @@ on each line.
 number in a variable. Then, using that variable, create a message that
 reveals your favorite number. Print that message.
 
+![favourite numbers jumping](fav_num.gif)
+
 ## TRY IT YOURSELF #4
 
 <span id="ch2exe10"></span>**2-10. Adding Comments:** Choose two of the
@@ -93,3 +95,4 @@ program does.
 into a Python terminal session and skim through the additional
 principles.
 
+![Zen of Python as Star Wars intro text scroll](zen_of_python.gif)
