@@ -4,7 +4,7 @@ In this chapter you’ll learn about the different kinds of data you can
 work with in your Python programs. You’ll also learn how to store your
 data in variables and how to use those variables in your programs.
 
-<a title="Максим Пе, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Python_3._The_standard_type_hierarchy.png"><img width="256" alt="Python 3. The standard type hierarchy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Python_3._The_standard_type_hierarchy.png/256px-Python_3._The_standard_type_hierarchy.png"></a>
+[![Python 3. The standard type hierarchy-en](https://upload.wikimedia.org/wikipedia/commons/c/c4/Python_3._The_standard_type_hierarchy-en.svg)](https://commons.wikimedia.org/wiki/File:Python_3._The_standard_type_hierarchy-en.svg "ð£ð░ð║Ðüð©ð╝ ðƒðÁ, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")
 
 ## TRY IT YOURSELF Ⓐ
 
